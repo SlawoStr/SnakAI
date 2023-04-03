@@ -8,4 +8,4 @@ Colors:
 - Blue - Tail   
 - Yellow - Head   
 
-![Animation](https://github.com/SlawekSt/SnakeAI/blob/main/Animation.gif)
+![Animation](https://github.com/SlawoStr/Snake/blob/master/Animation.gif)
